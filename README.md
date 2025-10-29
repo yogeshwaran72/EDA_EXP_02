@@ -9,7 +9,7 @@ To analyze Netflix dataset and compare movies vs TV shows, top producing countri
 
 **Procedure / Algorithm**
 
-  1)Load dataset (netflix_titles.csv).
+  1)Load dataset (netflix_titles.csv).`
   2)Count movies vs TV shows.
   3)Group by country → top contributors.
   4)Create pivot table (release year vs type).
